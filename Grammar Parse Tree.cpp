@@ -5,7 +5,9 @@ E → E + T
 E → E * T
 E → T
 T → id 
-example for input: a+b*c
+example:
+input: a+b*c
+output:
 T+b*c
 E+b*c
 E+T*c
