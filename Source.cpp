@@ -5,6 +5,14 @@ E → E + T
 E → E * T
 E → T
 T → id 
+example for input: a+b*c
+T+b*c
+E+b*c
+E+T*c
+E*c
+E*T
+E
+S
 */
 #include <iostream>
 #include <vector>
