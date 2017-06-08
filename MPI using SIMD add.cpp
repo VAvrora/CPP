@@ -1,5 +1,6 @@
 /*
 Programm adds 2 arrays in parallel using two processes and SIMD add
+how to compile: https://blogs.technet.microsoft.com/windowshpc/2015/02/02/how-to-compile-and-run-a-simple-ms-mpi-program/
 */
 #include "mpi.h"
 #include "stdio.h"
