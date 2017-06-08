@@ -1,3 +1,6 @@
+/*
+Programm adds 2 arrays in parallel using two processes and SIMD add
+*/
 #include "mpi.h"
 #include "stdio.h"
 #include "string.h"
