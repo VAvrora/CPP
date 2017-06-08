@@ -1,6 +1,6 @@
 /*Programm: building parse tree for simple add exersize
 input: string as simple math add exersize
-output: sorce code for asm, ccp, java using stack 
+output: sorce code using stack for asm, ccp, java 
 */
 
 #include <iostream>
