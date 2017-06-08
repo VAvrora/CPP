@@ -1,4 +1,11 @@
-//Lecture 3.0 including input test: 
+/*Lecture 3.0
+Building parse tree for simple math exersize by rulles:
+S → E
+E → E + T
+E → E * T
+E → T
+T → id 
+*/
 #include <iostream>
 #include <vector>
 #include <string>
